@@ -59,3 +59,4 @@ for key, value in data.items():  # пройтись по парам ключ-з�
 
 print('USEFUL DATA CODE PRINTING VERY IMPORTANT NOT DELETE YOU WiLL DIE CORONA WINS')
 print('USEFUL DATA CODE PRINTING VERY IMPORTANT NOT DELETE YOU WiLL DIE CORONA WINS')
+print('Some useful code from feature_branch1')
