@@ -1,4 +1,12 @@
-sahd f lala oixx .>X nlais
-iooypih  rtydtrr cvnn wqd
-po ytgi hvuy ouhn.
-i pohig llhviyt axc
+Rules for commit messages
+
+1. Present Simple
+- examples:
+"Add new file"
+"Modify somefile"
+"Need modify smth"
+"Not work smth"
+"Add new file. Modify smth. Not work smth"
+
+git remote add origin link_to_repo  - добавит удаленный репо(по ссылке link_to_repo),
+ назовет его локально origin
