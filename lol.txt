@@ -10,3 +10,7 @@ Rules for commit messages
 
 git remote add origin link_to_repo  - добавит удаленный репо(по ссылке link_to_repo),
  назовет его локально origin
+
+git push origin master - выгрузит изменения в последнем коммите в удаленный репо
+по ссылке origin в ветку master(если такой ветки нет, то она создастся)
+
