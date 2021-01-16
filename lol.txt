@@ -14,3 +14,5 @@ git remote add origin link_to_repo  - добавит удаленный репо
 git push origin master - выгрузит изменения в последнем коммите в удаленный репо
 по ссылке origin в ветку master(если такой ветки нет, то она создастся)
 
+git pull origin master - подтянуть изменения из удаленного репо по ссылке origin
+из ветки master в текущую рабочую ветку
