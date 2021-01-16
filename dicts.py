@@ -55,3 +55,7 @@ for key, value in data.items():  # пройтись по парам ключ-з�
     print(key, value)
 
 # ADD EXTRA DATA FROM OTHER DEV
+
+
+print('USEFUL DATA CODE PRINTING VERY IMPORTANT NOT DELETE YOU WiLL DIE CORONA WINS')
+print('USEFUL DATA CODE PRINTING VERY IMPORTANT NOT DELETE YOU WiLL DIE CORONA WINS')
