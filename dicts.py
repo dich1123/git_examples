@@ -53,3 +53,5 @@ for i in data.values():  # пройтись по всем значениям в 
 # 3
 for key, value in data.items():  # пройтись по парам ключ-значение
     print(key, value)
+
+# ADD EXTRA DATA FROM OTHER DEV
